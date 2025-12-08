@@ -1,0 +1,7 @@
+jogodavelha
+
+*.o
+
+*~
+
+*.gch
