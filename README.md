@@ -78,7 +78,4 @@ make clean
 
 ```
 
----
 
-Feito! Se quiser, posso gerar também um **Makefile**, o **código base dos módulos**, ou até a **estrutura completa do projeto**.
-```
